@@ -1,0 +1,95 @@
+/* PC */
+@media (min-width: 768px) {
+    .ladi-image-background-me {
+        width: 662.186px;
+        height: 343.854px;
+    }
+
+    .ladi-image-background-me-logo {
+        width: 94.329px;
+        height: 84.049px;
+    }
+
+    .ladi-image-background-IMAGE34 {
+        width: 216.865px;
+        height: 216.406px;
+        margin-left: 64px;
+    }
+
+
+}
+
+/* Moble */
+@media (max-width: 767px) {
+    .ladi-image-background-me {
+        width: 284.634px;
+        height: 147.802px;
+    }
+
+    .ladi-image-background-me-logo {
+        width: 94.329px;
+        height: 84.049px;
+    }
+
+    .ladi-element-PARAGRAPH603-me {
+        margin-left: 48px;
+    }
+
+    .ladi-image-background-IMAGE34 {
+        width: 227.561px;
+        height: 148.214px;
+    }
+
+    .ladi-image-background-IMAGE27{
+        width: 309.526px;
+        height: 264.177px;
+    }
+
+    #IMAGE37>.ladi-image>.ladi-image-background-IMAGE37-me {
+        width: 400.415px;
+        height: 438.411px;
+        top: -222.8102px;
+        left: -104.635px;
+    }
+
+    .ladi-image-background-IMAGE1184-me {
+        width: 400px;
+        height: 90.4001px;
+        top: 0;
+        left: 0;
+    }
+
+    .ladi-video-background-VIDEO1231 {
+        width: 420px;
+        height: 278.834px;
+        top: 0;
+        left: 0;
+    }
+
+    #BOX1241>.ladi-box-BOX1247 {
+        width: 420px;
+        height: 278.834px;
+        top: 0;
+        left: 0;
+    }
+
+    .ladi-video-background-VIDEO1221 {
+        width: 420px;
+        height: 278.834px;
+        top: 0;
+        left: 0;
+    }
+
+    #BOX1256>.ladi-box-BOX1247-slide,
+    #BOX1257>.ladi-box-BOX1247-slide {
+        top: 12px;
+        left: 0;
+    }
+
+    .ladi-box-BOX1247-slide-me {
+        width: 420px;
+        height: 278.834px;
+    }
+
+  
+}
